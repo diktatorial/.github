@@ -11,8 +11,5 @@ Welcome to the Diktatorial Suite GitHub repository! Diktatorial Suite is an AI-p
 * Real-Time Preview: Preview the mastered version of your tracks in real time, allowing you to make adjustments and fine-tune the settings as needed.
 <br>
 
-[<img src="https://github.com/diktatorial/.github/assets/66077909/d7d4605b-5eff-4ddf-bbe2-3b0ac54b9caa" alt="Website Preview" width="500">](https://diktatorial.com)
-
-
 
   Join Closed Beta on [our website](https://www.diktatorial.com).
