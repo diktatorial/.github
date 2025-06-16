@@ -12,4 +12,4 @@ Welcome to the Diktatorial Suite GitHub repository! Diktatorial Suite is an AI-p
 <br>
 
 
-  Join Closed Beta on [our website](https://www.diktatorial.com).
+Try free [ai mastering](https://soundboost.ai).
