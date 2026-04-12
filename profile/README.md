@@ -18,7 +18,7 @@ Examples:
 - "Make it punchy and club-ready"
 - "Bring vocals forward with warmth"
 
-SoundBoost translates your words into real mastering decisions using advanced DSP and AI.  [oai_citation:0‡SoundBoost.ai](https://soundboost.ai/?utm_source=chatgpt.com)
+SoundBoost translates your words into real mastering decisions using advanced DSP and AI.  
 
 ---
 
@@ -27,49 +27,48 @@ SoundBoost translates your words into real mastering decisions using advanced DS
 ### 🎛 AI Mastering Engine
 - Automatic analysis of loudness, tonal balance, stereo image, and dynamics  
 - Builds a custom mastering chain per track  
-- Streaming-ready output (Spotify, Apple Music, etc.)  [oai_citation:1‡Google Play](https://play.google.com/store/apps/details?id=com.soundboost2.ai&utm_source=chatgpt.com)  
+- Streaming-ready output (Spotify, Apple Music, etc.)    
 
 ---
 
 ### 💬 Conversational Mastering
 - Control mastering with natural language  
 - Iterate instantly with fast revision loops  
-- Works like chatting with a virtual mastering engineer  [oai_citation:2‡SoundBoost.ai](https://soundboost.ai/?utm_source=chatgpt.com)  
+- Works like chatting with a virtual mastering engineer  
 
 ---
 
 ### ⚡ Instant Results
 - Get a master in under a minute  
 - Real-time preview and A/B comparison  
-- Export in WAV, MP3, FLAC and more  [oai_citation:3‡SoundBoost.ai](https://soundboost.ai/?utm_source=chatgpt.com)  
+- Export in WAV, MP3, FLAC and more  
 
 ---
 
 ### 🎚 Advanced Sound Control
 - EQ, compression, saturation, stereo width, limiting  
 - Analog warmth and intensity controls  
-- Multiple AI mastering “engineers” with different styles  [oai_citation:4‡SoundBoost.ai](https://soundboost.ai/?utm_source=chatgpt.com)  
+- Multiple AI mastering “engineers” with different styles 
 
 ---
 
 ### 🎧 Reference Mastering
 - Upload or choose a reference track  
-- Match tonal balance, loudness, and dynamics automatically  [oai_citation:5‡SoundBoost.ai](https://soundboost.ai/?utm_source=chatgpt.com)  
+- Match tonal balance, loudness, and dynamics automatically  
 
 ---
 
 ### ✂️ Stem Splitter & Studio Tools
 - Separate vocals, drums, bass, and instruments  
 - Built for remixing, rehearsal, and production workflows  
-- Includes looping and adaptive metronome  [oai_citation:6‡SoundBoost.ai](https://soundboost.ai/?utm_source=chatgpt.com)  
+- Includes looping and adaptive metronome  
 
 ---
 
 ### 📱 Cross Platform
 - Web, iOS, and Android  
 - Sync across devices  
-- Designed for both beginners and professionals  [oai_citation:7‡Google Play](https://play.google.com/store/apps/details?id=com.soundboost2.ai&utm_source=chatgpt.com)  
-
+- Designed for both beginners and professionals 
 ---
 
 ## 🧠 How it works
@@ -79,7 +78,7 @@ SoundBoost translates your words into real mastering decisions using advanced DS
 3. AI builds and applies a mastering chain  
 4. Preview, revise, and finalize  
 
-No DAW. No presets. Just sound and intent.  [oai_citation:8‡SoundBoost.ai](https://soundboost.ai/blog/how-to-master-your-music-with-prompts-a-simple-guide-to-perfecting-your-sound?utm_source=chatgpt.com)  
+No DAW. No presets. Just sound and intent.  
 
 ---
 
@@ -95,7 +94,7 @@ No DAW. No presets. Just sound and intent.  [oai_citation:8‡SoundBoost.ai](htt
 
 Your audio is yours.
 
-SoundBoost does not train on or share your tracks.  [oai_citation:9‡SoundBoost.ai](https://soundboost.ai/?utm_source=chatgpt.com)  
+SoundBoost does not train on or share your tracks.   
 
 ---
 
