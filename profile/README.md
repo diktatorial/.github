@@ -1,6 +1,6 @@
 # SoundBoost Suite: AI Mastering Platform
 
-Welcome to the SoundBoost Suite.
+Welcome to the SoundBoost AI (previously Diktatorial Suite).
 
 SoundBoost is an AI-powered audio mastering platform that lets you control sound using natural language instead of complex knobs and plugins.
 
