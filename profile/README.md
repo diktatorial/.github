@@ -108,6 +108,6 @@ So we built one that understands what you mean, not just what you click.
 
 ## ⚡ Try it
 
-👉 https://soundboost.ai  
+👉 https://soundboost.com 
 
 Try free AI mastering and hear the difference in seconds.
